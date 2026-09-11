@@ -13,7 +13,7 @@ Workshops will be run with help from my colleague [Simon Kirby](https://edwebpro
 
 ## Class times
 
-Lectures take place on Mondays, 2.10pm-4pm, in LG.11, [40 George Square](https://www.ed.ac.uk/maps/maps?building=0228). 
+Lectures take place on Mondays, 2.10pm-4pm, in LG.11, [40 George Square](https://www.ed.ac.uk/maps/maps?building=0228) - this is in the basement, round the back of the coffee shop. 
 
 You will be allocated to a workshop group which will meet for 1 hour later in the week (Wednesday or Thursday). **There are no workshops in week 1** - workshops start in week 2 (week commencing 28th September). 
 
@@ -21,11 +21,11 @@ Lectures and workshops are both essential to doing well on the course - the lect
 
 ## Assessment
 
-The course is assessed via a single final exam, composed of short-answer questions, worth 100% of your course mark. The exam assesses material covered in the course readings, lectures, and workshops. The reading quiz (see below) provides exam-style questions on the readings, and provides you with an opportunity to practice these questions and get feedback on your answers.
+The course is assessed in a single final exam, composed of short-answer questions, worth 100% of your course mark. The exam assesses material covered in the readings, lectures, and workshops. The reading quiz (see below) provides exam-style questions on the readings, and provides you with an opportunity to practice these questions and get feedback on your answers.
 
 ## Quizzes
 
-Each week's lecture reading will be accompanied by a reading quiz, which allows you to check you understand basic concepts in the readings, to get some idea of the format of the exam questions, and also to flag up anything to me I need to cover in the lecture. We will also do in-class questions (as a tool to check understanding or promote discussion).
+Each week's lecture reading will be accompanied by a reading quiz; we will also do in-class questions (as a tool to check understanding or promote discussion).
 
 ### Reading Quizzes
 
