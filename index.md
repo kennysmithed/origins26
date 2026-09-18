@@ -50,14 +50,14 @@ For the workshops you will be asked to read one or more journal articles/book ch
 ### Week 1 (commencing 21st September): Introduction
 
 - No pre-lecture reading this week, but read [this short paper](papers/smith_18_cognitive.pdf) that summarises (in very condensed format) the main thread of the course. There is lots to read in subsequent weeks, so if you are looking for something to do then make a start on that!
-- Lecture slides
+- [Lecture slides](origins_lecture_wk1.pdf)
 - No workshop this week
 
 ### Week 2 (28th September): Natural selection, adaptation, and the evolution of language
 
 - [Reading](origins_reading_wk2.md)
 - Lecture slides
-- Workshop reading and instructions
+- [Workshop instructions](origins_workshop_wk2.md)
 - Workshop tutor notes
 
 ### Week 3 (5th October): Intention and structure in animal communication
