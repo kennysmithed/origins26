@@ -15,7 +15,9 @@ Using the [Evolution Lab game](https://www.pbs.org/wgbh/nova/labs/lab/evolution/
 
 Use the interactive simulator linked below (from a suite of simulation tools provided by the PhET team at the Unversity of Colorado Boulder) to run the four experiments below. The aim here is to get a basic understanding of the effects of selection on frequencies of traits (and genes) in a population. 
 
-[Use this link to access the simulation](https://phet.colorado.edu/sims/html/natural-selection/latest/natural-selection_all.html?introMutations=F&introPopulation=5FF,5ff), and click on "Play" to begin. You can speed things up or restart the simulation by clicking the buttons in the bottom right. Behind the scenes in this simulation, each bunny has two parents and inherits two versions (alleles) of a gene that affects fur colour — one from each parent. There are two possible alleles: a brown allele and a white allele. If a bunny inherits two white alleles, it has white fur; if it inherits at least one brown allele, it has brown fur (i.e. in technical terms, the brown allele is dominant and the white fur allele is recessive).
+[Use this link to access the simulation](https://phet.colorado.edu/sims/html/natural-selection/latest/natural-selection_all.html?introMutations=F&introPopulation=5FF,5ff), then click "Intro" and then "Play" to begin. You can speed things up or restart the simulation by clicking the buttons in the bottom right. 
+
+Behind the scenes in this simulation, each bunny has two parents and inherits two versions (alleles) of a gene that affects fur colour, one from each parent. There are two possible alleles: a brown allele and a white allele. If a bunny inherits two white alleles, it has white fur; if it inherits at least one brown allele, it has brown fur (i.e. in technical terms, the brown allele is dominant and the white fur allele is recessive).
 
 Use this simulation to run these experiments.
 
@@ -31,10 +33,10 @@ Use this simulation to run these experiments.
 
 # From bunnies to language
 
-Is there a way of interpreting the bunny simulation as being about language (abstractly)? If you wanted to interpret it that way, you would need to decide how to interpret:
+Is there a way of interpreting the bunny simulation as being (abstractly!) about language? If you wanted to interpret it that way, you would need to decide how to interpret:
 - The bunnies (I'd suggest: bunnies correspond to people)
-- The trait (for the bunnies it's fur colour; in the language evolution case, could correspond to presence/absence or language? Or something else?)
-- The genes (for the bunnies there are two genes which encode the trait; is that plausoble for your language trait?)
+- The trait (for the bunnies it's fur colour; in the language evolution case, could the corresponding trait be  presence/absence of language? Or something else?)
+- The genes (for the bunnies there are two genes which affect the trait; is that plausible for your language trait?)
 - The wolves (for the bunnies they weed out some traits; what's the language-relevant correspondence?)
 
 ## Re-use
