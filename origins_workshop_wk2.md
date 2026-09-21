@@ -33,11 +33,11 @@ Use this simulation to run these experiments.
 
 # From bunnies to language
 
-Is there a way of interpreting the bunny simulation as being (abstractly!) about language? If you wanted to interpret it that way, you would need to decide how to interpret:
+Is there a way of interpreting the bunny simulation as being (quite abstractly!) about language? If you wanted to interpret it that way, you would need to decide how to interpret:
 - The bunnies (I'd suggest: bunnies correspond to people)
 - The trait (for the bunnies it's fur colour; in the language evolution case, could the corresponding trait be  presence/absence of language? Or something else?)
-- The genes (for the bunnies there are two genes which affect the trait; is that plausible for your language trait?)
-- The wolves (for the bunnies they weed out some traits; what's the language-relevant correspondence?)
+- The genes (for the bunnies there is one gene with two variants which affect the trait; is that plausible for your language trait?)
+- The wolves (for the bunnies they weed out some traits; what's the language-relevant equivalent?)
 
 ## Re-use
 
