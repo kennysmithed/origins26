@@ -64,7 +64,7 @@ For the workshops you will be asked to read one or more journal articles/book ch
 
 - [Reading](origins_reading_wk3.md)
 - Lecture slides
-- Workshop reading and instructions
+- [Workshop instructions](origins_workshop_wk3.md)
 - Workshop tutor notes
 
 ### Week 4 (12th October): No class
