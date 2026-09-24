@@ -56,7 +56,7 @@ For the workshops you will be asked to read one or more journal articles/book ch
 ### Week 2 (28th September): Natural selection, adaptation, and the evolution of language
 
 - [Reading](origins_reading_wk2.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk2.pdf)
 - [Workshop instructions](origins_workshop_wk2.md)
 - Workshop tutor notes
 
