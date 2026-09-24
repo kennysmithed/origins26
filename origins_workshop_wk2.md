@@ -1,9 +1,9 @@
 ---
-title: Week 2 tutorial briefing
+title: Week 2 workshop briefing
 description: Basics of evolutionary theory
 ---
 
-The first tutorial will be hands-on, to give you a chance to check your understanding of the basics of the comparative method and evolution by natural selection. 
+The first workshop will be hands-on, to give you a chance to check your understanding of the basics of the comparative method and evolution by natural selection. 
 
 *NB. these apps work in Chrome, your success in other browsers may vary, if necessary try a different browser! You can access the Evolution Lab game with a guest account if you don't want to log in with google.*
 
