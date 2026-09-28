@@ -23,7 +23,7 @@ Despite considerable and ongoing advances in what we know about human evolution,
 
 ## References
 
-Tuttle, R. Howard (2024, September 3). human evolution. *Encyclopedia Britannica*. https://www.britannica.com/science/human-evolution
+[Tuttle, R. Howard (2026, August 31). human evolution. *Encyclopedia Britannica*. https://www.britannica.com/science/human-evolution](https://www.britannica.com/science/human-evolution)
 
 ## Re-use
 
