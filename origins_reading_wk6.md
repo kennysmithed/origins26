@@ -101,10 +101,11 @@ The rest of the Tyack paper considers cases which don't fit into this classic di
 
 ## References
 
-
 Fitch, W. T. (2010). *The Evolution of Language*. Cambridge: Cambridge University Press.
 
 Fitch, W. T., De Boer, B., Mathur, N., & Ghazanfar, A. A. (2016). Monkey vocal tracts are speech-ready. *Science Advances, 2,* e1600723.
+
+Janik, V. M., & Slater, P. J. B. (2000). The different roles of social learning in vocal communication. *Animal Behaviour, 60,* 1-11.
 
 [Tyack, P. L. (2019) A taxonomy for vocal learning. *Philosophical Transactions of the Royal Society B, 375,* 20180406.]((http://dx.doi.org/10.1098/rstb.2018.0406))
 
