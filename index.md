@@ -80,7 +80,7 @@ Use the time to catch up or read ahead.
 
 ### Week 6 (26th October): Evolution of speech, vocal learning, grammar learning
 
-- Lecture pre-reading
+- [Reading](origins_reading_wk6.md)
 - Lecture slides
 - Workshop reading and instructions
 - Workshop tutor notes
