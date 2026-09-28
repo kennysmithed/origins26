@@ -73,7 +73,7 @@ Use the time to catch up or read ahead.
 
 ### Week 5 (19th October): Social learning and cumulative cultural evolution
 
-- Lecture pre-reading
+- [Reading](origins_reading_wk5.md)
 - Lecture slides
 - Workshop reading and instructions
 - Workshop tutor notes
