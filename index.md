@@ -64,7 +64,7 @@ For the workshops you will be asked to read one or more journal articles/book ch
 
 - [Reading](origins_reading_wk3.md)
 - Lecture slides
-- [Workshop instructions](origins_workshop_wk3.md)
+- [Workshop reading and instructions](origins_workshop_wk3.md)
 - Workshop tutor notes
 
 ### Week 4 (12th October): No class
@@ -75,7 +75,7 @@ Use the time to catch up or read ahead.
 
 - [Reading](origins_reading_wk5.md)
 - Lecture slides
-- Workshop reading and instructions
+- [Workshop reading and instructions](origins_workshop_wk5.md)
 - Workshop tutor notes
 
 ### Week 6 (26th October): Evolution of speech, vocal learning, grammar learning
@@ -100,6 +100,8 @@ Use the time to catch up or read ahead.
 - Workshop tutor notes
 
 ### Week 9 (16th November): Sign language as a window into language origins 
+
+This week’s lecture will be a guest lecture by [Dr. Annie Holtz](https://annieholtz.github.io).
 
 - Lecture pre-reading
 - Lecture slides
