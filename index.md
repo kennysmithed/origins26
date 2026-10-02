@@ -63,7 +63,7 @@ For the workshops you will be asked to read one or more journal articles/book ch
 ### Week 3 (5th October): Intention and structure in animal communication
 
 - [Reading](origins_reading_wk3.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk3.pdf)
 - [Workshop reading and instructions](origins_workshop_wk3.md)
 - Workshop tutor notes
 
