@@ -94,14 +94,14 @@ Use the time to catch up or read ahead.
 
 ### Week 8 (9th November): Cultural evolution of language
 
-- Lecture pre-reading
+- [Reading](origins_reading_wk8.md)
 - Lecture slides
 - Workshop reading and instructions
 - Workshop tutor notes
 
 ### Week 9 (16th November): Sign language as a window into language origins 
 
-This week’s lecture will be a guest lecture by [Dr. Annie Holtz](https://annieholtz.github.io).
+This week's lecture will be a guest lecture by [Dr. Annie Holtz](https://annieholtz.github.io).
 
 - Lecture pre-reading
 - Lecture slides
