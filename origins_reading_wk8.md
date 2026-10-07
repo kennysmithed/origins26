@@ -12,7 +12,7 @@ I'd like you to read two short journal articles: [Kirby, Cornish & Smith (2008)]
 
 ## References
 
-[Kirby, S., Cornish, H., & Smith, K. (2008). Cumulative cultural evolution in the laboratory: an experimental approach to the origins of structure in human language. Proceedings of the National Academy of Sciences, USA, 105, 10681-10686.](http://www.lel.ed.ac.uk/~kenny/publications/kirby_08_cumulative.pdf)
+[Kirby, S., Cornish, H., & Smith, K. (2008). Cumulative cultural evolution in the laboratory: an experimental approach to the origins of structure in human language. Proceedings of the National Academy of Sciences, USA, 105, 10681-10686.](https://kennysmithed.github.io/publications/kirby_08_cumulative.pdf)
 
 [Smith, K. (2022). How language learning and language use create linguistic structure. Current Directions in Psychological Science, 31, 177-186.](https://doi.org/10.1177/09637214211068127) You will need to be on the University network to access this, or you can look at [a less prettily-formatted preprint](https://psyarxiv.com/qbdsv/).
 
