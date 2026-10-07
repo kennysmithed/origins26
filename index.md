@@ -87,7 +87,7 @@ Use the time to catch up or read ahead.
 
 ### Week 7 (2nd November): Evolution of social cognition
 
-- Lecture pre-reading
+- [Reading](origins_reading_wk7.md)
 - Lecture slides
 - Workshop reading and instructions
 - Workshop tutor notes
