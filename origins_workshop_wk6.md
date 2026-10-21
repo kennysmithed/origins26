@@ -8,7 +8,7 @@ This week's lecture reading was about vocal learning, and in the lecture I focus
 For this week's workshop, read [James & Sakata (2017)]() and [Tchernichovski & Lipkind (2017)](), which is a helpful one-page summary/comment on the James & Sakata paper. You could also watch this brief video explainer of the experiment ([found online](https://www.dropbox.com/scl/fo/8g05qw1azx52b4hmv00tg/AI0cZ-Dh7i-wJs77cL337VE?dl=0&e=2&rlkey=16qsnqrm1n757ak0htpwvtovb&utm_source=chatgpt.com)):
 
 <video width="320" height="240" controls>
-  <source src="james_materials/video.mov" type="video/mp4">
+  <source src="https://www.dropbox.com/scl/fo/8g05qw1azx52b4hmv00tg/AI0cZ-Dh7i-wJs77cL337VE?dl=0&e=2&rlkey=16qsnqrm1n757ak0htpwvtovb&utm_source=chatgpt.com" type="video/mp4">
 </video>
 
 James & Sakata is fairly technical; **don't worry about the technicalities of the statistical analysis** (unless you are in to that kind of thing), but try to get the gist of what they are describing; the Tchernichovski & Lipkind comment is quite helpful for this too.
