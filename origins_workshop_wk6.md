@@ -19,21 +19,24 @@ To get a sense of the unstructured training data the experimentally-tutored bird
 
 [![Training song](james_materials/sakata_james_randomSequence.png)](james_materials/sakata_james_randomSequence.wav)
 
-And here's 4 repetitions of a song using the 5 syllable types described in the paper in a consistent order.
+And here's a synthesised sample of 4 repetitions of a song using 5 syllables in a consistent order.
 
-[![Training song](james_materials/sakata_james_linearSequence.png)](james_materials/sakata_james_linearSequence.wav)
+[![Consistent song](james_materials/sakata_james_linearSequence.png)](james_materials/sakata_james_linearSequence.wav)
 
-For the second question below, you need some example song syllables to reconstruct what kind of songs the experimentally-produced birds might sing - here are your 5 syllables (these are the same 5 syllables as from the paper, but I have disguised the names to make the exercise more interesting!).
-- [Syllable v](james_materials/Tutor_V.wav) (short duration, lower pitch)
-- [Syllable w](james_materials/Tutor_W.wav) (medium duration, lower pitch)
-- [Syllable x](james_materials/Tutor_X.wav) (medium duration, higher pitch)
-- [Syllable y](james_materials/Tutor_Y.wav) (shortest duration, highest pitch)
-- [Syllable z](james_materials/Tutor_Z.wav) (longest duration, medium pitch)
+And here are two example songs sung by their experimentally-tutored birds: the common [b-e-a-d song](james_materials/pu17pu18_BEAD.wav), and a less typical [d-b-a-e-a](james_materials/r28r78_DBAEA.wav) song.
+
+
+For the second question below, you need some example song syllables to reconstruct what kind of songs the experimentally-produced birds might sing - here are your 5 syllables.
+- [Syllable a](james_materials/Tutor_A.wav) (short duration, lower pitch)
+- [Syllable b](james_materials/Tutor_B.wav) (medium duration, higher pitch)
+- [Syllable c](james_materials/Tutor_C.wav) (medium duration, lower pitch)
+- [Syllable d](james_materials/Tutor_D.wav) (longest duration, medium pitch)
+- [Syllable e](james_materials/Tutor_E.wav) (shortest duration, highest pitch)
 
 Questions:
 - What is the James & Sakata paper about? What did they do? What did they find?
-- One of their results relates to how syllable duration and frequency (pitch) influence the position of notes in songs (Figures 2C and 2D in the paper) - syllables in the middle tend to differ systematically on these features from syllables at the end. Based on these results, can you predict where syllables v-z above might be most likely to appear? You might not be able to confidently guess for all syllables. 
-- Based on these results or their findings more generally, which of the following two sequences (produced by experimentally-tutored birds in their experiment) is more typical? [X-Y-V-Z](james_materials/pu17pu18_BEAD.wav), [Z-X-V-Y-V](james_materials/r28r78_DBAEA.wav).
+- One of their results relates to how syllable duration and frequency (pitch) influence the position of syllables in songs (Figures 2C and 2D in the paper) - syllables in the middle tend to differ systematically on these features from syllables at the end. Based on these results, where would you expect syllables a-e might be most likely to appear? You might not be able to confidently guess for all syllables. Does this correspond to what they show in Figure 2B in terms of the positional preferences of these syllable-types?
+- Based on their findings, which of the following syllable sequences do you thing would be most likely to be sung by one of their birds, and why? e-d-b-e, c-a-b-e-d, c-e-a-d.
 - What aspect of their findings strikes you as most interesting or surprising from the perspective of someone interested in human language? Or if you think these results aren't relevant to understanding human language, why not?
 - If you can imagine running similar experiments with humans, what do you think would happen? How different would the methods have to be to show interesting results? This question is intended to be about the factors you think are crucial in understanding human language transmission, rather than the ethical issues!
 
