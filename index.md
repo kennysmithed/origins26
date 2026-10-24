@@ -81,7 +81,7 @@ Use the time to catch up or read ahead.
 ### Week 6 (26th October): Evolution of speech, vocal learning, grammar learning
 
 - [Reading](origins_reading_wk6.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk6.pdf)
 - [Workshop reading and instructions](origins_workshop_wk6.md)
 - Workshop tutor notes
 
