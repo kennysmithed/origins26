@@ -89,7 +89,7 @@ Use the time to catch up or read ahead.
 
 - [Reading](origins_reading_wk7.md)
 - Lecture slides
-- Workshop reading and instructions
+- [Workshop reading and instructions](origins_workshop_wk7.md)
 - Workshop tutor notes
 
 ### Week 8 (9th November): Cultural evolution of language
