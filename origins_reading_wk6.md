@@ -90,7 +90,7 @@ Many mammals (including humans) have innate vocalisations (such as crying in hum
 
 ![Non-human brain wiring](images/nonhuman_neural.png) 
 
-The second neural circuit in the "standard" wiring diagram above is the medial cortical system, a set of connections from the cortex to motor neurons controlling the tongue, jaw and lips (Hyp. Nuc. stands for the hypoglossal nucleusm, a region of the brainstem controlling the tongue), bypassing the PAG. This circuit is widely shared among mammals, including the primates, and seems to be involved in volitional production of innate vocalisations (e.g. usage learning for an innate call, like the dog barking on command). But it is still dependernt on activatimng the pattern generators in the brainstem, so doesn't allow modification of the form of those calls (i.e. this circuit is not involved in production learning). 
+The second neural circuit in the "standard" wiring diagram above is the medial cortical system, a set of connections from the cortex to motor neurons controlling the tongue, jaw and lips (Hyp. Nuc. stands for the hypoglossal nucleusm, a region of the brainstem controlling the tongue), bypassing the PAG. This circuit is widely shared among mammals, including the primates, and seems to be involved in volitional production of innate vocalisations (e.g. usage learning for an innate call, like the dog barking on command). But it is still dependernt on activating the pattern generators in the brainstem, so doesn't allow modification of the form of those calls (i.e. this circuit is not involved in production learning). 
 
 ![Non-human brain wiring](images/human_neural.png) 
 
