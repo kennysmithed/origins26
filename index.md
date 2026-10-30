@@ -88,7 +88,7 @@ Use the time to catch up or read ahead.
 ### Week 7 (2nd November): Evolution of social cognition
 
 - [Reading](origins_reading_wk7.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk7.pdf)
 - [Workshop reading and instructions](origins_workshop_wk7.md)
 - Workshop tutor notes
 
@@ -103,7 +103,7 @@ Use the time to catch up or read ahead.
 
 - [Reading](origins_reading_wk9.md)
 - Lecture slides
-- Workshop reading and instructions
+- [Workshop reading and instructions](origins_workshop_wk9.md)
 - Workshop tutor notes
 
 ### Week 10 (23rd November): Gene-culture co-evolution
