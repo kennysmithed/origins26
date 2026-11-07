@@ -95,7 +95,7 @@ Use the time to catch up or read ahead.
 ### Week 8 (9th November): Cultural evolution of language
 
 - [Reading](origins_reading_wk8.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk8.pdf)
 - [Workshop reading and instructions](origins_workshop_wk8.md)
 - Workshop tutor notes
 
