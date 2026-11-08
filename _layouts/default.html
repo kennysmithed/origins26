@@ -14,12 +14,21 @@
     <!--[if lt IE 8]>
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
+    <style>body { line-height: 1.5; }</style>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
   </head>
   <body>
 
+  
     <div class="wrapper">
+
+      <!-- Automatically generated navigation -->
+    <nav id="toc" aria-label="On this page">
+      <strong>On this page</strong>
+      <ul id="toc-list"></ul>
+    </nav>
+
 
       <section>
         <div id="title">
@@ -52,5 +61,9 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+
+    <!-- Generate the table of contents -->
+    <script src="{{ '/assets/js/toc.js' | relative_url }}"></script>
   </body>
 </html>
