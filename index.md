@@ -21,7 +21,7 @@ Lectures and workshops are both essential to doing well on the course - the lect
 
 ## Assessment
 
-The course is assessed in a single final exam, composed of short-answer questions, worth 100% of your course mark. The exam assesses material covered in the readings, lectures, and workshops. The reading quiz (see below) provides exam-style questions on the readings, and provides you with an opportunity to practice these questions and get feedback on your answers.
+The course is assessed in a single final exam, composed of short-answer questions, worth 100% of your course mark. The exam assesses material covered in the readings, lectures, and workshops. The reading quiz (see below) provides exam-style questions on the readings, and provides you with an opportunity to practice these questions and get feedback on your answers. **NEW as of 11th November 2026:** There is also a sample exam paper available on Learn.
 
 ## Quizzes
 
