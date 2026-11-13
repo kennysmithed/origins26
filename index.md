@@ -90,14 +90,14 @@ Use the time to catch up or read ahead.
 - [Reading](origins_reading_wk7.md)
 - [Lecture slides](slides/origins_lecture_wk7.pdf)
 - [Workshop reading and instructions](origins_workshop_wk7.md)
-- Workshop tutor notes
+- [Workshop tutor notes](tutor_notes/origins_workshop_tutor_notes_wk7.pdf)
 
 ### Week 8 (9th November): Cultural evolution of language
 
 - [Reading](origins_reading_wk8.md)
 - [Lecture slides](slides/origins_lecture_wk8.pdf)
 - [Workshop reading and instructions](origins_workshop_wk8.md)
-- Workshop tutor notes
+- [Workshop tutor notes](tutor_notes/origins_workshop_tutor_notes_wk8.pdf)
 
 ### Week 9 (16th November): Sign language as a window into language origins 
 
