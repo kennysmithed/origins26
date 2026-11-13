@@ -102,7 +102,7 @@ Use the time to catch up or read ahead.
 ### Week 9 (16th November): Sign language as a window into language origins 
 
 - [Reading](origins_reading_wk9.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk9.pdf)
 - [Workshop reading and instructions](origins_workshop_wk9.md)
 - Workshop tutor notes
 
