@@ -104,7 +104,7 @@ Use the time to catch up or read ahead.
 - [Reading](origins_reading_wk9.md)
 - [Lecture slides](slides/origins_lecture_wk9.pdf)
 - [Workshop reading and instructions](origins_workshop_wk9.md)
-- Workshop tutor notes
+- [Workshop tutor notes](tutor_notes/origins_workshop_tutor_notes_wk9.pdf) plus [powerpoint of sorted and labelled videos](tutor_notes/origins_workshop_wk9_sorted_videos.pptx)
 
 ### Week 10 (23rd November): Gene-culture co-evolution
 
