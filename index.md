@@ -109,7 +109,7 @@ Use the time to catch up or read ahead.
 ### Week 10 (23rd November): Gene-culture co-evolution
 
 - [Reading](origins_reading_wk10.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lecture_wk10.pdf)
 - [Workshop reading and instructions](origins_workshop_wk10.md)
 - Workshop tutor notes
 
