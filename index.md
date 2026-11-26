@@ -111,7 +111,7 @@ Use the time to catch up or read ahead.
 - [Reading](origins_reading_wk10.md)
 - [Lecture slides](slides/origins_lecture_wk10.pdf)
 - [Workshop reading and instructions](origins_workshop_wk10.md)
-- Workshop tutor notes
+- [Workshop tutor notes](tutor_notes/origins_workshop_tutor_notes_wk10.pdf)
 
 ### Week 11 (30th November): Revision lecture
 
